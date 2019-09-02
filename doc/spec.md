@@ -1,15 +1,18 @@
 dynpack
 =======
 
-* build dynamic packages depending on the terminal
-    * browser only
-    * with 'Ambur-Karbush'
-    * with 'PULS'
-* arranges layers and components for the target e.g.
-    * local persitence
-    * offline capabilities
-    * remote processing
-* uses rollup dynamically to transpile node only modules browser usable
+- build dynamic packages depending on the terminal
+    - browser only
+    - with 'Ambur-Karbush'
+    - with 'PULS'
+- arranges layers and components for the target e.g.
+    - local persitence
+    - offline capabilities
+    - remote processing
+- uses rollup dynamically to transpile node only modules browser usable
+
+- specialized loader
+    - plugs into loaderhierarchy from bootloader  
  
 ##independent clients
 
