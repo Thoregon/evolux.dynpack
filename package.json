@@ -19,6 +19,5 @@
     "url": "https://github.com/Thoregon/evolux.dynpack/issues"
   },
   "homepage": "https://github.com/Thoregon/evolux.dynpack#readme",
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
