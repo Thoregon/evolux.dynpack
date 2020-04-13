@@ -1,6 +1,11 @@
 dynpack
 =======
 
+- use git for version management
+    - tags for targeted versions
+    - 'latest' version
+    - multiple versions
+    
 - build dynamic packages depending on the terminal
     - browser only
     - with 'Ambur-Karbush'
